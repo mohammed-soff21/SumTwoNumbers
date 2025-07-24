@@ -11,7 +11,7 @@ This project is designed as a basic introduction to input/output operations and 
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mohammed-soff21/SumTwoIntegerNumbers.git
+   git clone https://github.com/mohammed-soff21/SumTwoNumbers.git
 2. Open the solution:
    - Launch Visual Studio
    - Open the SumTwoNumbers.sln file
